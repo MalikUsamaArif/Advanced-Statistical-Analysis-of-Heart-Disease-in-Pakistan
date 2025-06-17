@@ -58,4 +58,11 @@ Dr. Faridoon Khan & Sir Irfan ul Haq
    - Cluster visualization
    - Risk score distributions
 
-## 📂 Repository Structure
+## 🔑 Key Findings
+1. Chest pain-only patients show 3.2× higher severe diagnosis risk
+2. Diabetes + renal markers increase severity likelihood by 68%
+3. Top mortality predictors: Age (OR=1.12), Cholesterol (OR=1.08), ST depression (OR=2.3)
+4. Middle-aged women (45-59) with normal renal markers show unexpected high-severity prevalence
+5. Random Forest achieved 84% accuracy in severity classification
+
+
