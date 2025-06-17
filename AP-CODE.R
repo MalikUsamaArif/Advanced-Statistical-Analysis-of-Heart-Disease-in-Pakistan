@@ -1,6 +1,4 @@
 # Install required packages if not already installed
-#install.packages(c("shiny", "shinydashboard", "dplyr", "ggplot2", "plotly", "reshape2", "caret", "nnet", "randomForest"))#
-#install.packages("car")
 
 library(shiny)
 library(shinydashboard)
